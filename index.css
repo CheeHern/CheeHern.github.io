@@ -1,0 +1,10 @@
+
+#Category{
+  background-color: honeydew;
+    width: 100%;
+    text-align: center;
+}
+#Category > a{
+    background-color: honeydew;
+    margin: 5px;
+}
