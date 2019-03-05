@@ -1,0 +1,101 @@
+.navbar {
+    min-height: 90px;
+  }
+
+.bg {    
+    background-image: url(img/BG.jpg);
+    background-size: cover;
+    height: 700px;
+    width: auto;
+}
+
+#information{
+    background: rgba(0, 0, 0, 0.5);
+    height: 300px;
+    width: 400px;
+    left: 250px;
+    top: 250px;
+    position: absolute;
+    
+    
+}
+
+#information2{
+    background: rgba(0, 0, 0, 0.5);
+    height: 300px;
+    width: 400px;
+    left: 850px;
+    top: 250px;
+    position: absolute;
+    
+    
+}
+#informationtextwelcome{
+    color:white;
+    text-align: center;
+    font-size: 35px;
+}
+#informationtext{
+    color:white;
+    text-align: center;
+    font-size: 18px;
+}
+
+#GetStart{
+    box-shadow: 2px 2px grey;
+    background-color: white;
+    height: 60px;
+    width: 80px;
+    left: 160px;
+    top: 190px;
+    position: absolute;
+    text-align: center;
+}
+
+#pictureabove{
+    text-align: center;
+   
+}
+
+.row{
+ text-align: center;
+}
+#Firstkey{
+    border: 2px solid black;
+    border-radius: 8px;
+    width: 650px;
+    height: 600px;
+    margin: 60px;
+    
+    
+}
+
+#Seckey{
+    left: 10px;
+    border: 2px solid black;
+    border-radius: 8px;
+    width: 650px;
+    height: 600px;
+    margin: 60px;
+  
+}
+
+#AboutUs{
+    color:white;
+    text-align: center;
+    font-size: 85px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#AboutUsInfo{
+    color:white;
+    text-align: center;
+    font-size: 35px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: rgba(0, 0, 0, 0.7);
+    height: 500px;
+    width: 800px;
+    left: 350px;
+    top: 250px;
+    position: absolute;
+}
