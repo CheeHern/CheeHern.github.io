@@ -5,16 +5,16 @@
 .bg {    
     background-image: url(img/BG.jpg);
     background-size: cover;
-    height: 700px;
+    height: 1000px;
     width: auto;
 }
 
 #information{
     background: rgba(0, 0, 0, 0.5);
-    height: 300px;
+    height: 250px;
     width: 400px;
     left: 250px;
-    top: 250px;
+    top: 800px;
     position: absolute;
     
     
@@ -22,18 +22,23 @@
 
 #information2{
     background: rgba(0, 0, 0, 0.5);
-    height: 300px;
+    height: 250px;
     width: 400px;
     left: 850px;
-    top: 250px;
+    top: 800px;
     position: absolute;
     
     
 }
+#Shopping{
+    color:white;
+    text-align: center;
+    font-size: 30px;
+}
 #informationtextwelcome{
     color:white;
     text-align: center;
-    font-size: 35px;
+    font-size: 60px;
 }
 #informationtext{
     color:white;
@@ -47,7 +52,7 @@
     height: 60px;
     width: 80px;
     left: 160px;
-    top: 190px;
+    top: 170px;
     position: absolute;
     text-align: center;
 }
